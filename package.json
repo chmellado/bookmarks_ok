@@ -1,0 +1,8 @@
+{
+  "name": "Prueba_UJS_Bookmarket",
+  "private": true,
+  "dependencies": {
+    "highcharts": "^8.1.2",
+    "jquery": "^3.5.1"
+  }
+}
